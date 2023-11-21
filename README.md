@@ -31,8 +31,8 @@ Implementation
 The Java code for parallel merge sort is available in the ImprovedParallelMergeSort.java file. It introduces parallelism and allows you to control the depth of parallel execution.
 
 ```bash
-javac ImprovedParallelMergeSort.java
-java ImprovedParallelMergeSort
+javac ParallelMergeSort.java
+java ParallelMergeSort
 ```
 
 ### Adjusting Parameters
